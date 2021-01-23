@@ -11,8 +11,7 @@
             "github_handle": "Phoenix-Pool"
         },
         "about": {
-            "me": "A university CS student and a Cardano stake pool operator",
-            "server": "One BP and two relays (SF and NY)"
+            "server": "One BP and two relays"
         }      
     },
   "my-pool-ids": {
