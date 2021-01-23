@@ -9,7 +9,12 @@
             "twitch_handle": "",
             "discord_handle": "",
             "github_handle": "Phoenix-Pool"
-        }
+        },
+        {
+        "about": {
+            "me": "A university CS student and a Cardano stake pool operator",
+            "server": "One BP and two relays (SF and NY)"
+        }      
     },
   "my-pool-ids": {
     "0": "fcd4729667b4d9687a5a05e92f1e8abcea7a3c34b7312a610b97b5e8"
