@@ -6,14 +6,14 @@ h1 {
   font-size: 5.0vw;
 }
 h2 {
-  font-size: 3.0vh;
+  font-size: 3.0vw;
 }
 p {
   font-size: 2vmin;
 }
 
 a {
-  font-size:2vmin;
+  font-size:2.0vw;
 }
 
 .center {
