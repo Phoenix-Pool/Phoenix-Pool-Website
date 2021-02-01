@@ -181,3 +181,8 @@ ul,li:hover{
   margin-top:70px;
   padding:5%;
 }
+
+.wrapper .text-center{
+  text-align:center;
+  margin-top: 10%;
+}
